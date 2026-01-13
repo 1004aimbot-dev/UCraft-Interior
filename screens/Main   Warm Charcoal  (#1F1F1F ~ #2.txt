@@ -1,0 +1,8 @@
+Main:   Warm Charcoal  (#1F1F1F ~ #232323)
+Base:   Soft Taupe     (#D6D0C8 계열)
+Sub:    Stone Gray     (#B9B9B9 계열)
+Point:  Deep Olive     (#3F4A3C) 또는 Muted Navy
+Text:   Off White      (#F4F4F4)
+
+
+AIzaSyAcP8mC_N_7SBJQHVe0K-LIo8cGn5qJ6sM
